@@ -30,21 +30,22 @@
 
 ## Creación desde consola Google Cloud
 ### 1. seleccionar proyecto
+![alt text](/assets/image-23.png)
 
 ### 2. Buscar servicio `cloud storage`
-
+![alt text](/assets/image-18.png)
 
 ### 3. Crear bucket
-
+![alt text](/assets/image-19.png)
 
 #### 3.1. Información basica
-
+![alt text](/assets/image-20.png)
 
 #### 3.2. Ubicación
-
+![alt text](/assets/image-21.png)
 
 #### 3.3. Clase de almacenamiento
-
+![alt text](/assets/image-22.png)
 
 #### 3.4. Control de acceso
 ![alt text](/assets/image.png)
@@ -94,6 +95,3 @@
 ![alt text](/assets/image-16.png)
 
 ![alt text](/assets/image-17.png)
-
-### 2. Buscar servicio `cloud storage`
-### 2. Buscar servicio `cloud storage`
